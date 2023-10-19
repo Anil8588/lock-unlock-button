@@ -1,0 +1,17 @@
+  .lock-unkock-button {
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: relative;
+
+}
+
+.lock-unkock-button textarea {
+    width: 50%;
+    height: 100px;
+    font-family: sans-serif;
+}
+
+.lock-unkock-button button {
+    margin: 5px;
+    border-radius: 5px;
+}
